@@ -1,0 +1,10 @@
+name,n,K,density,seed,penalty,runtime_ms,feasible,reason,optimal_penalty,approx_ratio,bruteforce_seconds,bruteforce_status
+small-8,8,3,0.3,1,47.242453136826555,17,True,,37.51808724626986,1.2591914088457032,0.00015640600000210725,optimal
+small-10,10,4,0.4,2,37.57853334063336,14,True,,37.578533340633356,1.0000000000000002,0.00018483999999574507,optimal
+small-12,12,4,0.5,3,79.83880093201189,12,True,,79.83880093201189,1.0,0.00014518900000126678,optimal
+medium-50,50,8,0.25,10,277.47516253416035,50,False,construction failed: no legal slot for T42 after one-task repacking,,,,n/a
+medium-100,100,10,0.3,11,166.53078476452686,54,False,construction failed: no legal slot for T3 after one-task repacking,,,,n/a
+medium-150,150,12,0.35,12,0.0,54,False,total demand exceeds total capacity in resource dimension 3,,,,n/a
+stress-200-K15,200,15,0.4,20,0.0,49,False,total demand exceeds total capacity in resource dimension 3,,,,n/a
+stress-200-K5,200,5,0.6,21,0.0,75,False,total demand exceeds total capacity in resource dimension 2,,,,n/a
+stress-200-K20,200,20,0.1,22,462.9436218660548,66,False,construction failed: no legal slot for T63 after one-task repacking,,,,n/a
