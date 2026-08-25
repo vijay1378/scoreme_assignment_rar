@@ -1,6 +1,6 @@
 # ScoreMe Advanced Systems Design — CS-RAR
 
-This repository organizes the work for Tasks 1–8 of the ScoreMe Advanced Systems Design assessment.
+This repository organizes the work for Tasks 1–7 of the ScoreMe Advanced Systems Design assessment.
 
 ## Algorithm
 
@@ -19,7 +19,6 @@ The formal problem has four resource dimensions (CPU, RAM, GPU, Network), K proc
 - `task5/` — implementation and tests (Python + Java 21)
 - `task6/` — benchmark report, CSV and charts
 - `task7/` — design journal draft; personalize before submission
-- `task8/` — viva preparation
 
 ## Task 5 — Python
 
